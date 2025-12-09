@@ -60,7 +60,7 @@ dependencies:
 
   # play videos
   video_player: ^2.0.4
-
+ 
   # for displaying the stories
   story_view: ^0.15.0
 
@@ -72,6 +72,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  assets:
-    - assets/images/
-    - assets/icons/
+  # assets:
+  #   - assets/images/
+  #   - assets/icons/ suppose that you are working as a software engineering in  khwopa college of engineering and you are given a task to manage the network topplogy , network architecture and networking devices of your college. and prepare a proper explanation with diagram how you propose your system to the network administratio including civil computer and electrical department and c,f&g and b block.
+  # as a computer engineeer which among all the topologies which topolgy is suitable for the it company you are going to establish in tne future. elaborate your answer with company architecture (employee employeer department) 
